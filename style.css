@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+}
+.weblogo{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+    gap: 30px ; 
+    text-align: center;
+    
+}
+.firefox-container {
+    display: inline-block;
+    text-align: center;
+}
+img{
+    width: 76px;
+    height: 76px;
+    color: black;
+    
+}
+.chrome, .edge, .firefox {
+    color: black;
+}
+.text{
+    font-size: 22px;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
